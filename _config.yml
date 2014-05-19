@@ -1,8 +1,8 @@
 menu:
   Home: /
-  
+  ## add /archives, /tags, etc
 menu_external:
-  Github: https://github.com/bullluo23
+  ## add external links
 
 widgets: 
 - search
